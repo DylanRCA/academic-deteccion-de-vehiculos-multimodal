@@ -2,6 +2,12 @@
 
 Sistema de deteccion automatica de vehiculos con reconocimiento de placas, marca, color, tracking multi-vehiculo y panel de estadisticas en tiempo real.
 
+## Demo
+
+| Tracking con OCR de placas | Tracking en autopista |
+|:--------------------------:|:---------------------:|
+| ![Detección en entorno urbano con OCR de placas, tracking multi-ID y panel de detalle](data/screenshot_1.png) | ![Tracking en autopista con línea virtual de entrada/salida y 40 vehículos simultáneos](data/screenshot_2.png) |
+
 ## Caracteristicas
 
 - Deteccion de vehiculos usando YOLOv8
